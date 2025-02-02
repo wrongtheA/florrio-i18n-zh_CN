@@ -4,7 +4,7 @@ Achievements/0/ExtraDescription=用你的鼠标来移动，你的花朵会自动
 
 Achievements/1/Name=教程
 Achievements/1/Description=击杀一个生物。
-Achievements/1/ExtraDescription=这些昆虫是你的敌人，消灭它们有概率掉落新的花瓣。<n/><n/>请找到一只并消灭。<n/>你可能会发现，按住鼠标左键来延伸你的花瓣很有用。
+Achievements/1/ExtraDescription=这些昆虫是你的敌人，消灭它们有概率掉落新的花瓣。<n/><n/>请找到一只并歼灭。<n/>你可能会发现，按住鼠标左键来延伸你的花瓣很有用。
 
 Achievements/2/Name=教程
 Achievements/2/Description=收集一个花瓣。
